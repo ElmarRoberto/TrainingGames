@@ -12,8 +12,8 @@ env = gym.make('Taxi-v2') # load the environment
 number_episodes = 100
 total_train = 10
 
-open('text_results.txt', 'w').close()
-file = open('text_results.txt', 'a')
+open('../text_results.txt', 'w').close()
+file = open('../text_results.txt', 'a')
 
 for aux in range(total_train):
   # Initialize the Q-Table with state x action

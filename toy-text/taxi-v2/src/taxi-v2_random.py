@@ -11,8 +11,8 @@ env = gym.make('Taxi-v2') # load the environment
 number_episodes = 100
 total_train = 10
 
-open('random_text_results.txt', 'w').close()
-file = open('random_text_results.txt', 'a')
+open('../random_text_results.txt', 'w').close()
+file = open('../random_text_results.txt', 'a')
 
 for aux in range(total_train):
   total_loss = 0
