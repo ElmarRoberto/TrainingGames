@@ -1,0 +1,90 @@
+========== TRAINING 1 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 64 times
+Average wins per episode: 0.64
+-6311 Total loss until the end of training
+Average loss per episode: -63.11
+List of state repeats per episode [1-100] - max(200)
+ [80, 81, 67, 74, 78, 78, 52, 83, 81, 69, 41, 85, 57, 74, 43, 87, 56, 54, 59, 44, 82, 63, 75, 76, 72, 52, 56, 77, 69, 36, 66, 28, 88, 14, 47, 81, 19, 65, 45, 36, 24, 30, 45, 27, 43, 44, 26, 56, 56, 81, 44, 51, 39, 27, 46, 44, 26, 29, 58, 38, 9, 21, 38, 13, 61, 20, 11, 58, 55, 48, 58, 27, 39, 33, 9, 12, 31, 18, 15, 34, 33, 52, 15, 35, 36, 43, 38, 16, 18, 24, 6, 15, 48, 47, 16, 60, 14, 22, 1, 3]
+
+========== TRAINING 2 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 65 times
+Average wins per episode: 0.65
+-6160 Total loss until the end of training
+Average loss per episode: -61.6
+List of state repeats per episode [1-100] - max(200)
+ [81, 75, 77, 59, 84, 70, 81, 67, 78, 89, 76, 50, 69, 83, 81, 71, 57, 80, 63, 77, 80, 67, 69, 67, 52, 77, 77, 56, 24, 75, 73, 58, 55, 39, 39, 18, 75, 30, 21, 52, 59, 60, 36, 59, 58, 32, 43, 39, 43, 33, 27, 19, 12, 54, 56, 27, 40, 38, 63, 49, 45, 46, 36, 27, 37, 26, 6, 25, 23, 14, 20, 19, 6, 9, 15, 16, 25, 55, 57, 37, 18, 33, 34, 34, 6, 24, 28, 9, 20, 30, 14, 48, 3, 52, 1, 3, 12, 43, 25, 21]
+
+========== TRAINING 3 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 63 times
+Average wins per episode: 0.63
+-6072 Total loss until the end of training
+Average loss per episode: -60.72
+List of state repeats per episode [1-100] - max(200)
+ [78, 79, 70, 21, 74, 60, 64, 83, 74, 72, 80, 80, 73, 36, 50, 75, 89, 73, 83, 70, 70, 80, 82, 48, 59, 79, 44, 92, 57, 41, 42, 54, 22, 29, 66, 43, 74, 51, 34, 53, 43, 30, 62, 54, 12, 1, 74, 30, 56, 32, 52, 35, 59, 10, 50, 12, 32, 4, 50, 42, 75, 24, 35, 43, 46, 39, 30, 19, 45, 32, 34, 68, 47, 13, 36, 15, 17, 30, 65, 16, 24, 32, 62, 4, 6, 15, 14, 3, 23, 28, 43, 33, 31, 16, 18, 37, 1, 5, 17, 24]
+
+========== TRAINING 4 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 63 times
+Average wins per episode: 0.63
+-5962 Total loss until the end of training
+Average loss per episode: -59.62
+List of state repeats per episode [1-100] - max(200)
+ [81, 67, 85, 76, 82, 73, 83, 74, 69, 61, 75, 55, 72, 75, 69, 35, 73, 80, 76, 55, 73, 78, 90, 49, 70, 53, 25, 6, 28, 75, 62, 53, 13, 79, 60, 58, 75, 71, 19, 71, 55, 4, 59, 61, 32, 39, 38, 31, 43, 64, 41, 46, 30, 58, 22, 43, 48, 20, 36, 30, 24, 59, 25, 23, 21, 56, 1, 34, 16, 38, 34, 55, 37, 40, 31, 30, 16, 44, 21, 8, 14, 32, 4, 38, 25, 2, 3, 33, 22, 18, 15, 46, 21, 34, 2, 14, 7, 21, 31, 57]
+
+========== TRAINING 5 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 63 times
+Average wins per episode: 0.63
+-5848 Total loss until the end of training
+Average loss per episode: -58.48
+List of state repeats per episode [1-100] - max(200)
+ [74, 73, 75, 72, 67, 77, 78, 74, 63, 70, 85, 56, 95, 81, 75, 50, 87, 56, 90, 87, 58, 41, 51, 81, 70, 71, 61, 83, 52, 49, 72, 76, 58, 19, 53, 52, 55, 58, 25, 37, 61, 38, 32, 77, 37, 35, 16, 49, 5, 62, 39, 52, 30, 43, 52, 38, 26, 18, 40, 34, 23, 40, 28, 18, 36, 55, 51, 26, 6, 45, 34, 48, 13, 58, 1, 28, 19, 19, 36, 12, 6, 6, 11, 11, 54, 35, 24, 10, 32, 6, 3, 14, 39, 18, 40, 27, 1, 3, 28, 10]
+
+========== TRAINING 6 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 64 times
+Average wins per episode: 0.64
+-5864 Total loss until the end of training
+Average loss per episode: -58.64
+List of state repeats per episode [1-100] - max(200)
+ [74, 83, 72, 74, 70, 78, 84, 80, 36, 93, 83, 68, 79, 76, 86, 62, 28, 68, 63, 70, 42, 87, 10, 69, 74, 71, 62, 53, 41, 57, 74, 39, 59, 54, 12, 53, 79, 34, 45, 19, 38, 57, 24, 56, 81, 38, 1, 16, 53, 19, 63, 16, 14, 9, 51, 30, 55, 52, 2, 57, 39, 23, 36, 50, 22, 44, 1, 28, 49, 3, 43, 52, 5, 25, 30, 38, 28, 54, 26, 24, 60, 23, 28, 34, 12, 22, 37, 48, 30, 6, 9, 16, 39, 49, 29, 36, 7, 3, 8, 49]
+
+========== TRAINING 7 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 62 times
+Average wins per episode: 0.62
+-6343 Total loss until the end of training
+Average loss per episode: -63.43
+List of state repeats per episode [1-100] - max(200)
+ [85, 61, 74, 82, 70, 74, 72, 85, 55, 74, 74, 58, 65, 62, 63, 83, 75, 81, 92, 74, 70, 52, 35, 84, 47, 80, 35, 62, 55, 57, 50, 40, 60, 35, 63, 59, 50, 49, 32, 79, 44, 29, 26, 63, 29, 59, 38, 58, 36, 51, 45, 37, 7, 62, 52, 38, 16, 19, 29, 7, 36, 11, 39, 5, 39, 77, 7, 36, 46, 11, 23, 21, 41, 44, 1, 3, 50, 19, 35, 68, 64, 22, 45, 49, 5, 60, 21, 1, 34, 29, 47, 5, 34, 23, 17, 47, 3, 10, 40, 34]
+
+========== TRAINING 8 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 62 times
+Average wins per episode: 0.62
+-6033 Total loss until the end of training
+Average loss per episode: -60.33
+List of state repeats per episode [1-100] - max(200)
+ [73, 84, 74, 78, 82, 69, 73, 79, 75, 76, 91, 73, 83, 71, 82, 67, 12, 64, 23, 67, 87, 42, 58, 59, 72, 53, 59, 74, 54, 70, 74, 47, 23, 58, 47, 40, 79, 41, 55, 82, 50, 59, 5, 56, 42, 37, 53, 16, 44, 52, 26, 24, 49, 36, 65, 59, 67, 56, 37, 37, 54, 15, 36, 52, 10, 10, 28, 29, 15, 14, 19, 55, 27, 46, 10, 1, 27, 56, 10, 52, 36, 5, 41, 15, 4, 33, 1, 28, 37, 10, 1, 22, 39, 53, 8, 5, 9, 20, 15, 26]
+
+========== TRAINING 9 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 61 times
+Average wins per episode: 0.61
+-6389 Total loss until the end of training
+Average loss per episode: -63.89
+List of state repeats per episode [1-100] - max(200)
+ [81, 69, 73, 70, 45, 76, 67, 74, 82, 88, 76, 82, 82, 32, 86, 70, 83, 64, 13, 61, 39, 50, 79, 81, 46, 34, 72, 83, 51, 87, 54, 23, 59, 33, 35, 41, 52, 49, 29, 45, 26, 53, 3, 23, 86, 49, 28, 19, 53, 18, 38, 19, 61, 29, 9, 28, 56, 35, 51, 57, 24, 24, 26, 79, 58, 17, 14, 13, 62, 62, 30, 78, 26, 28, 44, 47, 18, 53, 25, 35, 28, 36, 30, 22, 33, 26, 16, 60, 14, 54, 2, 50, 13, 8, 17, 31, 36, 55, 7, 52]
+
+========== TRAINING 10 ENDED ==========
+20000 steps were taken to complete the training
+The agent won the game 64 times
+Average wins per episode: 0.64
+-6722 Total loss until the end of training
+Average loss per episode: -67.22
+List of state repeats per episode [1-100] - max(200)
+ [79, 70, 80, 79, 54, 75, 75, 83, 65, 83, 53, 79, 73, 81, 67, 86, 78, 68, 90, 83, 65, 81, 55, 14, 57, 86, 69, 30, 73, 33, 23, 56, 55, 21, 67, 56, 45, 63, 78, 25, 42, 52, 41, 59, 61, 56, 50, 60, 28, 44, 52, 54, 40, 24, 56, 8, 46, 35, 28, 21, 53, 11, 50, 55, 62, 41, 26, 12, 2, 34, 26, 49, 15, 22, 26, 41, 53, 60, 7, 40, 49, 26, 13, 6, 15, 12, 6, 38, 18, 46, 43, 31, 50, 40, 43, 7, 47, 2, 23, 4]
+
